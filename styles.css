@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family:Roboto;
+}
+.pointer {
+    cursor: pointer;    
+}
+.fs-14 {
+    font-size: 14px;
+}
+.fs-20 {
+    font-size: 20px;
+}
+.capitalize {
+    text-transform: capitalize !important;
+}
+.v-data-table-header{
+    background-color:#b1cbf4;
+}
+::-webkit-scrollbar {
+    width: 8px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #bdbdbd;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #a3a5a8;
+    border-radius: 22px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    margin: 0;
+}
+@media screen and ( min-width: 320px ) and ( max-width: 768px ){
+    .cardContent{
+        width: 300px !important; 
+        align-self: center !important;
+    }
+}   

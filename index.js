@@ -1,0 +1,62 @@
+// export default {
+//   headers: {
+//     project_managers: [
+//       {
+//         text: "Master's Name",
+//         align: "start",
+//         class: "table_header  font-weight-medium",
+//         filterable: false,
+//         value: "manager_name",
+//         sortable: false,
+//         width: 150,
+//       },
+//       {
+//         text: "Master's Contact Number",
+//         align: "center",
+//         class: "table_header  font-weight-medium",
+//         filterable: false,
+//         value: "manager_contact",
+//         sortable: false,
+//         width: 150,
+//       },
+//       {
+//         text: "Actions",
+//         align: "center",
+//         class: "table_header font-weight-medium",
+//         filterable: false,
+//         value: "actions",
+//         sortable: false,
+//         width: 160,
+//       },
+//     ],
+//     other_complete: [
+//       {
+//         text: "Contractor",
+//         align: "center",
+//         class: "table_header font-weight-medium",
+//         filterable: false,
+//         value: "contractor",
+//         sortable: false,
+//         width: 160,
+//       },
+//       {
+//         text: "Master Email",
+//         align: "center",
+//         class: "table_header  font-weight-medium",
+//         filterable: false,
+//         value: "master_email",
+//         sortable: false,
+//         width: 150,
+//       },
+//       {
+//         text: "Actions",
+//         align: "center",
+//         class: "table_header font-weight-medium",
+//         filterable: false,
+//         value: "actions",
+//         sortable: false,
+//         width: 160,
+//       },
+//     ],
+//   },
+// };
